@@ -5,3 +5,5 @@ Wenhua Cheng is a Software Engineer at Intel, with a strong background in large 
 **Computer Vision**: As a co-first author, he won **two championships in the DawnBench competition**, outperforming teams from Huawei, Google, and others. As the first author, he also ranked **4th and 6th** in two tracks of the **2017 ICDAR Scene Text Detection Competition**.
 
 Wenhua has filed **21 patents, 11 of which have been granted**. Over the past four years, he has contributed to **300+ merged PRs**.
+
+In addition to LLM compression, Wenhua is interested in LLM pretraining and post-training, and is eager to contribute deployable technologies. He is open to positions that offer remote work and reasonable computational resources.
