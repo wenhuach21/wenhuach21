@@ -1,3 +1,7 @@
+
+
+**Wenhua is actively looking for fully‑remote positions and would greatly appreciate it if you could share any relevanti opportunities.**
+
 Wenhua Cheng is a Software Engineer at Intel, with a strong background in large language model (LLM) quantization, model compression, and computer vision. Previously, he worked at Alibaba Cloud as a software engineer and at Intel Labs as a researcher. Wenhua holds a Master’s degree from Zhejiang University and a Bachelor’s degree from Nanjing University of Science and Technology. Wenhua’s expertise spans two main domains: 
 
 **LLM Compression**: As the first author, he has contributed to methods such as **SignRound** and **SignRoundV2**, signed gradient descent-based rounding optimizations for LLM quantization, and **TEQ (Trainable Equivalent Transformation)**. 
@@ -8,4 +12,3 @@ Wenhua has filed **22 patents, 11 of which have been granted**. Over the past fo
 
 In addition to LLM compression, Wenhua is interested in LLM pretraining and post-training, and is eager to contribute deployable technologies.
 
-**He is actively looking for fully‑remote positions and would greatly appreciate it if you could share any relevant opportunities.**
