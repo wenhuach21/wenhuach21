@@ -7,3 +7,5 @@ Wenhua Cheng is a Software Engineer at Intel, with a strong background in large 
 Wenhua has filed **22 patents, 11 of which have been granted**. Over the past four years, he has contributed to **300+ merged PRs**.
 
 In addition to LLM compression, Wenhua is interested in LLM pretraining and post-training, and is eager to contribute deployable technologies.
+
+**He is actively looking for fully‑remote positions and would greatly appreciate it if you could share any relevant opportunities.**
