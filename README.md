@@ -1,6 +1,6 @@
 
 
-**Wenhua is actively looking for fully‑remote positions and would greatly appreciate it if you could share any relevanti opportunities.**
+**Wenhua is actively looking for fully‑remote positions and would greatly appreciate it if you could share any relevant opportunities.**
 
 Wenhua Cheng is a Software Engineer at Intel, with a strong background in large language model (LLM) quantization, model compression, and computer vision. Previously, he worked at Alibaba Cloud as a software engineer and at Intel Labs as a researcher. Wenhua holds a Master’s degree from Zhejiang University and a Bachelor’s degree from Nanjing University of Science and Technology. Wenhua’s expertise spans two main domains: 
 
